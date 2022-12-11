@@ -1,5 +1,7 @@
 public class Test1 {
-    public static void main(String[] args) {
-    // created main method
+    public static void main(String []args) {
+
+        // fixed main method
+
     }
 }
